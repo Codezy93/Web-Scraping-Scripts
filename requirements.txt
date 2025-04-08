@@ -1,0 +1,13 @@
+#WEB SCRAPING
+bs4
+selenium
+scrapy
+html5lib
+
+#DATABASE
+pymongo
+mysql-connector-python
+
+#UTILITIES
+colorama
+python-dotenv
